@@ -1,6 +1,0 @@
-#!/bin/bash
-
-while IFS= read -r line
-do
-  echo "$line"
-done < /home/tati/Загрузки/Scripts/task2/example_log.log
