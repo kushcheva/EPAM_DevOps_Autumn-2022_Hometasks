@@ -28,7 +28,7 @@ Task B. Using Apache log example create a script to answer the following questio
 To resolve this task I used commands CUT, SORT, UNIQ. Script started with full path to log file as a parametr. It works with used files apache_logs.txt and example_log.log
 
 ```
-The most requests were from IP/n
+The most requests were from IP
      62 157.55.39.250
 The most requested page is
       8 /sitemap1.xml.gz
