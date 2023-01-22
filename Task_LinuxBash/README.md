@@ -89,8 +89,10 @@ What search bots have accessed the site? (UA + IP)
       7 YandexBot/3.0; +http://yandex.com/bots)"
       3 Googlebot/2.1; +http://www.google.com/bot.html)"
       1 XoviBot/2.0; +http://www.xovibot.net/)"
-      1 bingbot/2.0; +http://www.bing.com/bingbot.htm)"#Bash
-      
+      1 bingbot/2.0; +http://www.bing.com/bingbot.htm)"#bash
+ ```
+ 
+ 
 Task C. Create a data backup script that takes the following data as parameters"
 ===
 1. Path to the syncing directory.
