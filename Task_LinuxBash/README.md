@@ -27,7 +27,7 @@ Task B. Using Apache log example create a script to answer the following questio
 
 To resolve this task I used commands CUT, SORT, UNIQ. Script started with full path to log file as a parametr.
 
-The most requests were from IP/n
+```The most requests were from IP/n
      62 157.55.39.250
 The most requested page is
       8 /sitemap1.xml.gz
@@ -89,7 +89,7 @@ What search bots have accessed the site? (UA + IP)
       7 YandexBot/3.0; +http://yandex.com/bots)"
       3 Googlebot/2.1; +http://www.google.com/bot.html)"
       1 XoviBot/2.0; +http://www.xovibot.net/)"
-      1 bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+      1 bingbot/2.0; +http://www.bing.com/bingbot.htm)"#Bash
       
 Task C. Create a data backup script that takes the following data as parameters"
 ===
