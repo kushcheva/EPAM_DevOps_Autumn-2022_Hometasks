@@ -6,15 +6,15 @@ Task A. Create a script that uses the following keys:
 3. The --target key displays a list of open system TCP ports.
 The code that performs the functionality of each of the subtasks must be placed in a separate function
 
-![Starting without parameters](https://github.com/kushcheva/EPAM_DevOps_Autumn-2022_Hometasks/blob/main/Task_LinuxBash/Screenshoots/startwithin.png?raw=true)
+![Starting without parameters](https://github.com/kushcheva/EPAM_DevOps_Autumn-2022_Hometasks/blob/main/Task_LinuxBash/Screenshots/startwithin.png?raw=true)
 
 To display all IP adresess I used ARP. But before we should send an ARP broadcast request to fill in IP addresses table.
 
-![--all key](https://github.com/kushcheva/EPAM_DevOps_Autumn-2022_Hometasks/blob/main/Task_LinuxBash/Screenshoots/key%20all.png?raw=true)
+![--all key](https://github.com/kushcheva/EPAM_DevOps_Autumn-2022_Hometasks/blob/main/Task_LinuxBash/Screenshots/key%20all.png?raw=true)
 
 To display a list of open system TCP ports used SS -t
 
-![--target](https://github.com/kushcheva/EPAM_DevOps_Autumn-2022_Hometasks/blob/main/Task_LinuxBash/Screenshoots/key%20target.png?raw=true)
+![--target](https://github.com/kushcheva/EPAM_DevOps_Autumn-2022_Hometasks/blob/main/Task_LinuxBash/Screenshots/key%20target.png?raw=true)
 
 Task B. Using Apache log example create a script to answer the following questions:
 ===
@@ -108,4 +108,4 @@ The script was add to crontab with frequency of 1 minute.
 
 CRON syslogs
 
-![cronlog](https://github.com/kushcheva/EPAM_DevOps_Autumn-2022_Hometasks/blob/main/Task_LinuxBash/Screenshoots/cron.png?raw=true)
+![cronlog](https://github.com/kushcheva/EPAM_DevOps_Autumn-2022_Hometasks/blob/main/Task_LinuxBash/Screenshots/cron.png?raw=true)
