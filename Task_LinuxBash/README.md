@@ -25,7 +25,7 @@ Task B. Using Apache log example create a script to answer the following questio
 5. What time did site get the most requests?
 6. What search bots have accessed the site? (UA + IP)
 
-To resolve this task I used commands CUT, SORT, UNIQ. Script started with full path to log file as a parametr.
+To resolve this task I used commands CUT, SORT, UNIQ. Script started with full path to log file as a parametr. It works with used files apache_logs.txt and example_log.log
 
 ```
 The most requests were from IP/n
