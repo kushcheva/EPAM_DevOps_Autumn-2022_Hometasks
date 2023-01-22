@@ -94,7 +94,7 @@ What search bots have accessed the site? (UA + IP)
  ```
  
  
-Task C. Create a data backup script that takes the following data as parameters"
+Task C. Create a data backup script that takes the following data as parameters
 ===
 1. Path to the syncing directory.
 2. The path to the directory where the copies of the files will be stored.
