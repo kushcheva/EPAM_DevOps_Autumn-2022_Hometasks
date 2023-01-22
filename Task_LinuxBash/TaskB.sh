@@ -3,7 +3,7 @@
 param=$1
 
 topip () {
-echo "The most requests were from IP/n"
+echo "The most requests were from IP"
 cut -d ' ' -f 1 $param | sort | uniq -c |sort -nr | head -n 1
 }
 
