@@ -104,7 +104,7 @@ crontab with a run frequency of one minute]
 
 
 To resolve this task I used command TAR.
-Added backup script to crontab with frequency of 1 minute.
+The script was add to crontab with frequency of 1 minute.
 
 CRON syslogs
 
