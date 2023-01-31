@@ -77,6 +77,16 @@ The additional routes
 ![sshcl2](https://github.com/kushcheva/EPAM_DevOps_Autumn-2022_Hometasks/blob/main/LinuxNet/Screenshots/sshcl2cl1.png?raw=true)
 
 
+6. Rejected ssh connection from Client2 to Server1
+
+![rejssh](https://github.com/kushcheva/EPAM_DevOps_Autumn-2022_Hometasks/blob/main/LinuxNet/Screenshots/sshrej.png?raw=true)
+
+7. Checked connection from Clients to internet
+
+![int1](https://github.com/kushcheva/EPAM_DevOps_Autumn-2022_Hometasks/blob/main/LinuxNet/Screenshots/P82.png?raw=true)
+
+![int2](https://user-images.githubusercontent.com/96500223/215624695-b491db08-d1bc-4a05-a19c-f32e4898b253.png)
+
 
 
 
