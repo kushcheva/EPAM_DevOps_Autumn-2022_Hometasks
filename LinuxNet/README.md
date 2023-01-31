@@ -61,7 +61,7 @@ The additional routes
 
 ![routadd](https://github.com/kushcheva/EPAM_DevOps_Autumn-2022_Hometasks/blob/main/LinuxNet/Screenshots/traccl2.png?raw=true)
 
-4. Calculated the summarizing mask for the networks 172.17.33.0/24 and 172.17.43.0/24 with maximum available prefix and configured the routing for summarized network via Server1.
+4. Calculated the summarizing mask for the IPs 172.17.33.0/24 and 172.17.43.0/24 with maximum available prefix and configured the routing for summarized network via Server1.
 #### 172.17.32.0/19
 
 ![summrout](https://user-images.githubusercontent.com/96500223/215622504-ce608915-46d5-498d-b3f5-cc29f4cf297e.png)
