@@ -2,7 +2,8 @@
 AWS Homework
 ===
 
-Launch EC2 instance.
+## Launch EC2 instance
+
 
 ![image](https://user-images.githubusercontent.com/96500223/215626354-8536dcbb-3d6c-4672-ba26-7d8bb6eba2db.png)
 
@@ -26,8 +27,7 @@ Launched new instance from image EBS volume snapshot and mounted before used vol
 
 ![aa](https://github.com/kushcheva/EPAM_DevOps_Autumn-2022_Hometasks/blob/main/AWS/Screenshots/7.png?raw=true)
 
-S3, CLI, IAM
-===
+## S3, CLI, IAM
 
 Created S3 bucket via CLI where I copy from my laptop some objects to stored.
 
@@ -42,3 +42,20 @@ Created S3 bucket via CLI where I copy from my laptop some objects to stored.
 AWS credentials for my IAM user.
 
 ![image](https://user-images.githubusercontent.com/96500223/215629004-cb8ef489-2c65-41b9-8a7d-5a06139d82a6.png)
+
+ ## Static website on Amazon S3
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/96500223/219517874-009ed4d3-3699-43f4-933a-4e4fa692d85d.png)
+
+## Route 53
+
+![image](https://user-images.githubusercontent.com/96500223/219518003-1347ac79-3de0-45b8-9c7f-aeca96dea104.png)
+
+Publish the content on free domen tati.pp.ua
+
+![image](https://user-images.githubusercontent.com/96500223/219518188-94eafb63-b360-4593-984f-a5445443ebff.png)
+Current website link [link](http://tatiweb.s3-website.eu-central-1.amazonaws.com)
+
+ 
+ 
