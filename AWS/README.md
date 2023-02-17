@@ -55,7 +55,7 @@ AWS credentials for my IAM user.
 Publish the content on free domain tati.pp.ua
 
 ![image](https://user-images.githubusercontent.com/96500223/219518188-94eafb63-b360-4593-984f-a5445443ebff.png)
-Current website link [link](http://tatiweb.s3-website.eu-central-1.amazonaws.com)
+Current website [link](http://tatiweb.s3-website.eu-central-1.amazonaws.com)
 
  
  
