@@ -43,6 +43,13 @@ AWS credentials for my IAM user.
 
 ![image](https://user-images.githubusercontent.com/96500223/215629004-cb8ef489-2c65-41b9-8a7d-5a06139d82a6.png)
 
+ ## WordPress instance with Amazon Lightsail 
+ 
+![image](https://user-images.githubusercontent.com/96500223/220784635-7054d043-7821-48c5-8c0d-3d3d5dec1d46.png)
+
+![image](https://user-images.githubusercontent.com/96500223/220784713-1a62e87e-8a9e-45af-a40d-67d1c4597720.png)
+
+ 
  ## Static website on Amazon S3
  
  
