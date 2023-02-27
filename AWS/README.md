@@ -49,6 +49,17 @@ AWS credentials for my IAM user.
 
 ![image](https://user-images.githubusercontent.com/96500223/220784713-1a62e87e-8a9e-45af-a40d-67d1c4597720.png)
 
+ ## Lambda
+ 
+ 
+ Create a Lambda function
+ 
+ ![image](https://user-images.githubusercontent.com/96500223/221450015-570637fa-cc65-4338-9570-713ccd320cac.png)
+
+ Run function
+ 
+ ![image](https://user-images.githubusercontent.com/96500223/221450040-1903586c-73d2-44f9-9439-00847e81b0fd.png)
+
  
  ## Static website on Amazon S3
  
